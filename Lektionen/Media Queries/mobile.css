@@ -1,0 +1,11 @@
+@media (max-width: 500px) {
+  body {
+    background: aqua;
+  }
+  .mobile {
+    font-size: 1.6rem;
+  }
+  .tablet {
+    font-size:2.6rem;
+  }
+}

@@ -1,0 +1,8 @@
+@media (max-width: 1024px) {
+  body {
+    background: lime;
+  }
+  .tablet {
+    font-size: 1.6rem;
+  }
+}
