@@ -1,0 +1,20 @@
+html {
+  font-size: 62.5%;
+}
+
+
+button {
+  
+  padding:2.0rem;
+  background: none;
+  border: 0.3rem solid royalblue;
+  color: white;
+  font-size: 1.6rem;
+  border-radius: 2rem;
+  background: pink;
+  width: 15%;
+  margin: auto;
+  box-sizing: border-box;
+  display: block;
+
+}
